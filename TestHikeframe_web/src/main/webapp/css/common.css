@@ -1,0 +1,86 @@
+.common_add{
+  background-image: url(../images/icons/common_add.png)!important;
+}
+.common_auth{
+  background-image: url(../images/icons/common_auth.png)!important;
+}
+.common_buttonView{
+  background-image: url(../images/icons/common_buttonView.png)!important;
+}
+.common_check{
+  background-image: url(../images/icons/common_check.png)!important;
+}
+.common_set{
+  background-image: url(../images/icons/common_set.png)!important;
+}
+.common_del{
+  background-image: url(../images/icons/common_del.png)!important;
+}
+.common_edit{
+  background-image: url(../images/icons/common_edit.png)!important;
+}
+.common_history{
+  background-image: url(../images/icons/common_history.png)!important;
+}
+.common_put{
+  background-image: url(../images/icons/common_put.png)!important;
+}
+.common_refresh{
+  background-image: url(../images/icons/common_refresh.png)!important;
+}
+.common_search{
+  background-image: url(../images/icons/common_search.png)!important;
+}
+.common_role{
+  background-image: url(../images/icons/common_role.png)!important;
+}
+.common_cancel{
+  background-image: url(../images/icons/common_cancel.png)!important;
+}
+.common_pause{
+  background-image: url(../images/icons/common_pause.png)!important;
+}
+.common_sure{
+  background-image: url(../images/icons/common_sure.png)!important;
+}
+.common_view{
+  background-image: url(../images/icons/common_view.png)!important;
+}
+.common_excel{
+	background-image:url(../images/icons/common_excel.png)!important;
+}
+.pause_flag{
+  background-image: url(../images/icons/pause_flag.png)!important;
+  background-repeat:no-repeat;
+}
+.normal_flag{
+  background-image: url(../images/icons/normal_flag.png)!important;
+  background-repeat:no-repeat;
+}
+.common_regain{
+  background-image: url(../images/icons/common_regain.png)!important;
+}
+.router{
+	background-image:url(../images/icons/router.png)!important;
+}
+.review_law{
+  background-image: url(../images/icons/review_law.png)!important;
+}
+.review_political{
+  background-image: url(../images/icons/review_political.png)!important;
+}
+.review_rule{
+  background-image: url(../images/icons/review_rule.png)!important;
+}
+
+.x-tree-icon-leaf {
+    background-image: url(../images/icons/common_menu.png);
+}
+
+.x-grid-tree-node-expanded .x-tree-icon-parent {
+    background-image: url(../images/icons/common_fmenu.png);
+}
+
+.x-tree-icon-parent {
+    background-image: url(../images/icons/common_fmenu.png);
+}
